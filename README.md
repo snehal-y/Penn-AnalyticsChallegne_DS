@@ -1,4 +1,4 @@
-# Penn-AnalyticsChallegne_DS
+# Penn | Gaming Analytics Challegne |Python Project
 
 Challenge:
 Recommend a course of action regarding the mystery spin experiment. Should we implement Variant 1, Variant 2, revert to the control, or wait longer?
